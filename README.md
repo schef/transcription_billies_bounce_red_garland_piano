@@ -6,7 +6,7 @@
 ### Album:
  - Dig It! (1989)
 ### Timecode:
- - 04:12:08
+ - 00:04:12
 ### Transcribed:
  - Stjepan Horvat
 ### PDF:
