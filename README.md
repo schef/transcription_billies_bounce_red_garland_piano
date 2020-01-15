@@ -8,7 +8,7 @@
 ### Timecode:
  - 00:04:12
 ### Current Status:
- - 1/12 choruses
+ - 2/12 choruses
 ### Transcribed:
  - Stjepan Horvat
 ### PDF:
